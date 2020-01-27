@@ -1,5 +1,13 @@
 # Node Practice
 
+
+## Specifics for this portion of the course:
+MySQL was used with MySQLWorkbench. This created an additional Node dependency on the packages `mysql2`, and `sequelize` so be sure to install that for this part of the course.
+
+```npm i --save mysql2 sequelize```
+
+## Sections of the course
+
 These files are my practice of Node and adding pieces to my understanding of Node to include:
 
 1. Creating a basic web server
